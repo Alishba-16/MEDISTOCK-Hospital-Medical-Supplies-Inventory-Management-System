@@ -1,0 +1,3 @@
+# MediStock — Hospital Medical Supplies Inventory Management System
+# Uses Python 3 Standard Library only (tkinter, sqlite3, csv, datetime, unittest)
+# Zero external pip dependencies required!
